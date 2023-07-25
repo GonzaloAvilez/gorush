@@ -112,3 +112,5 @@ require (
 )
 
 replace github.com/msalihkarakasli/go-hms-push => github.com/spawn2kill/go-hms-push v0.0.0-20211125124117-e20af53b1304
+
+replace github.com/sideshow/apns2 v0.23.0 => github.com/GonzaloAvilez/apns2 v1.1.0
